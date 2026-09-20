@@ -59,4 +59,4 @@ This repository tracks project progress, strategic planning reports, data cleani
 * **Documentation:** Microsoft Word, Markdown
 
 ---
- Completed as part of the Virtual Logistics Data Analytics Internship. Virtual Logistics Data Analytics Internship.
+ Completed as part of the Virtual Logistics Data Analytics Internship.
